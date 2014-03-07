@@ -2,14 +2,15 @@ BlackMessage
 ============
 
 
-<b>BlackTour official creator BlackMessage.
+<b>BlackTour official creator BlackMessage.</b>
 This is the version "Beta" BlackMessage.
 
-Contact: failnickx@gmail.com Twitter:@ChiasVIP 
+Contact: <b>failnickx@gmail.com</b> Twitter:<b>@ChiasVIP</b>
 
 
-Download Code: https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php
+<h2>Download Code: https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php</h2>
 
+============
 
 "tHiÂ·s iIs, a s,imp,L,e tTE,st tTo h,iIdEe T,eXxT,: bl,ank,M.es,sSAg,E"
 
