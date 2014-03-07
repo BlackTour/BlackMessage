@@ -8,7 +8,8 @@ This is the version "Beta" BlackMessage.
 Contact: <b>failnickx@gmail.com</b> Twitter:<b>@ChiasVIP</b>
 
 
-<h2>Download Code: https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php</h2>
+<h2>Download Code:</h2>
+<b>https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php</b>
 
 ============
 
