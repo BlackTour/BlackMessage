@@ -2,7 +2,7 @@ BlackMessage
 ============
 
 
-<b>BlackTour official creator BlackMessage.</b><br>
+<b>BlackTour official BlackMessage creator.</b><br>
 Hide a "BlackMessage" in a text string.<br>
 This is the version "Beta" BlackMessage.
 
@@ -10,7 +10,8 @@ Contact: <b>failnickx@gmail.com</b> Twitter:<b>@ChiasVIP</b>
 
 
 <h2>Download Code:</h2>
-<b>https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php</b>
+<b>https://github.com/BlackTour/BlackMessage/blob/master/BlackMessage.php</b><br>
+<b>https://github.com/BlackTour/BlackMessage/archive/master.zip</b>
 
 ============
 
