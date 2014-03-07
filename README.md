@@ -13,6 +13,6 @@ Contact: <b>failnickx@gmail.com</b> Twitter:<b>@ChiasVIP</b>
 
 ============
 
-"tHiÂ·s iIs, a s,imp,L,e tTE,st tTo h,iIdEe T,eXxT,: bl,ank,M.es,sSAg,E"
+<center>"tHiÂ·s iIs, a s,imp,L,e tTE,st tTo h,iIdEe T,eXxT,: bl,ank,M.es,sSAg,E"</center>
 
 BlackMessage.php need to decrypt the text.
