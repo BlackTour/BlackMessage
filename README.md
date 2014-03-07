@@ -3,6 +3,7 @@ BlackMessage
 
 
 <b>BlackTour official creator BlackMessage.</b><br>
+Hide a "BlackMessage" in a text string.<br>
 This is the version "Beta" BlackMessage.
 
 Contact: <b>failnickx@gmail.com</b> Twitter:<b>@ChiasVIP</b>
